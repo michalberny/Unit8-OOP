@@ -1,0 +1,5 @@
+Třídní učitel: Jan Novák
+Seznam studentů: 
+ID001, Petr Svoboda2011 - 4.C
+ID123, Milan Říha2010 - 4.C
+ID345, Jindřich Nový2012 - 4.C
